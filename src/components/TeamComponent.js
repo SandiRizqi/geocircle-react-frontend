@@ -54,6 +54,7 @@ export default class TeamComponent extends Component {
                 alt=""
               ></img>
               <h5>Fahmi Indris</h5>
+              
               <span className="text-muted">
                 <strong>Data Analyst</strong>
               </span>
