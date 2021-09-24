@@ -8,7 +8,7 @@ function CarouselComponent() {
     setIndex(selectedIndex);
   };
   return (
-    
+    <section>
     <Carousel activeIndex={index} onSelect={handleSelect} fade>
       <Carousel.Item>
         <img
@@ -62,6 +62,7 @@ function CarouselComponent() {
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
+    </section>
 
   );
 }

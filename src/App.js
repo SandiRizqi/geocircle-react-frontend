@@ -18,9 +18,9 @@ export default class App extends Component {
         <NavbarMenuComponent/>
         <NavbarComponent />        
         <CarouselComponent />
-        <section className="mb-5 pt-5 pl-5 pr-5 pb-5">
+        <section className="mb-5 pl-5 pr-5 pb-5">
         <Container >
-          <div className="row mt-1 row no-gutters mb-3">
+          <div className="row row no-gutters mb-3">
             <div className="col-lg-4 col-md-6 mt-3">
               <div className="icon-box">
                 <div className="icon">
