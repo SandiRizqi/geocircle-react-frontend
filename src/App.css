@@ -302,7 +302,10 @@ body {
   background-color: #FFFFFF;
 }
 
+.popover {
+  position: relative;
 
+}
 
 @media only screen and (max-width: 1000px) {
   .carousel img {
@@ -324,6 +327,12 @@ body {
 
 .carousel-caption p{
   font-size: 14px;
+}
+
+.popover {
+  display: none;
+
+
 }
   
 }
