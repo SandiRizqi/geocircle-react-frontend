@@ -1,8 +1,12 @@
 body {
     background: #fff;
+    padding: 0;
+  margin: 0;
 }
-.navbar{
+
+.navbar {
     background-color: #232F3E;
+    z-index: 1;
 }
 
 #nav-dropdown .item{
@@ -70,6 +74,37 @@ body {
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
+
+#mapId {
+  position: absolute;
+  top: 70px;
+  bottom: 0;
+  width:100vw;
+  z-index: -1;
+}
+
+#sidebar {
+  position: absolute;
+  bottom: 0;
+  top: 80px;
+  z-index: 3;
+
+}
+
+#sidebar a {
+  background-color: #37475A;
+}
+
+#sidebar a:focus {
+  background-color: #FF9900;
+}
+
+.sidebar-header {
+  background-color: #37475A }
+
+.icofont-home, .icofont-gears, .white {
+    color: #f8fcf9 }
+  
 
 #linkedinIcon {
     background-color: #146EB4;
@@ -338,6 +373,24 @@ body {
 .popover {
   position: relative;
 
+}
+
+.leaflet-marker-icon {
+  color:#FF9900;
+}
+
+#card-products p {
+  font-size: 10px;
+  float: left;
+}
+
+
+.card-title {
+  text-transform: uppercase;
+}
+
+.sr-only{
+  display: none;
 }
 
 @media only screen and (max-width: 1000px) {

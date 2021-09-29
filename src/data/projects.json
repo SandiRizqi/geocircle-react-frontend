@@ -1,0 +1,245 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "1", "TEXT": "PROJECT", "LABEL": "PROJECT 1", "ORIG_FID": "0" }, "geometry": { "type": "Point", "coordinates": [ 115.275793, -0.531300 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "10", "TEXT": "PROJECT", "LABEL": "PROJECT 10", "ORIG_FID": "1" }, "geometry": { "type": "Point", "coordinates": [ 103.364702, -1.125552 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "100", "TEXT": "PROJECT", "LABEL": "PROJECT 100", "ORIG_FID": "2" }, "geometry": { "type": "Point", "coordinates": [ 115.315316, -3.681242 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "101", "TEXT": "PROJECT", "LABEL": "PROJECT 101", "ORIG_FID": "3" }, "geometry": { "type": "Point", "coordinates": [ 101.835124, 0.783770 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "102", "TEXT": "PROJECT", "LABEL": "PROJECT 102", "ORIG_FID": "4" }, "geometry": { "type": "Point", "coordinates": [ 117.292487, 4.053933 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "103", "TEXT": "PROJECT", "LABEL": "PROJECT 103", "ORIG_FID": "5" }, "geometry": { "type": "Point", "coordinates": [ 122.232892, -2.944283 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "104", "TEXT": "PROJECT", "LABEL": "PROJECT 104", "ORIG_FID": "6" }, "geometry": { "type": "Point", "coordinates": [ 129.388895, -0.044123 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "105", "TEXT": "PROJECT", "LABEL": "PROJECT 105", "ORIG_FID": "7" }, "geometry": { "type": "Point", "coordinates": [ 128.162540, 0.507221 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "106", "TEXT": "PROJECT", "LABEL": "PROJECT 106", "ORIG_FID": "8" }, "geometry": { "type": "Point", "coordinates": [ 114.633210, -1.116955 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "107", "TEXT": "PROJECT", "LABEL": "PROJECT 107", "ORIG_FID": "9" }, "geometry": { "type": "Point", "coordinates": [ 114.951112, -0.644375 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "108", "TEXT": "PROJECT", "LABEL": "PROJECT 108", "ORIG_FID": "10" }, "geometry": { "type": "Point", "coordinates": [ 115.136894, -0.793703 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "109", "TEXT": "PROJECT", "LABEL": "PROJECT 109", "ORIG_FID": "11" }, "geometry": { "type": "Point", "coordinates": [ 113.621497, -1.174682 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "110", "TEXT": "PROJECT", "LABEL": "PROJECT 110", "ORIG_FID": "12" }, "geometry": { "type": "Point", "coordinates": [ 121.166430, -2.781798 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "111", "TEXT": "PROJECT", "LABEL": "PROJECT 111", "ORIG_FID": "13" }, "geometry": { "type": "Point", "coordinates": [ 117.341455, 2.238183 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "112", "TEXT": "PROJECT", "LABEL": "PROJECT 112", "ORIG_FID": "14" }, "geometry": { "type": "Point", "coordinates": [ 122.030625, -5.193409 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "113", "TEXT": "PROJECT", "LABEL": "PROJECT 113", "ORIG_FID": "15" }, "geometry": { "type": "Point", "coordinates": [ 107.376576, -6.606068 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "114", "TEXT": "PROJECT", "LABEL": "PROJECT 114", "ORIG_FID": "16" }, "geometry": { "type": "Point", "coordinates": [ 114.900714, -1.061755 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "115", "TEXT": "PROJECT", "LABEL": "PROJECT 115", "ORIG_FID": "17" }, "geometry": { "type": "Point", "coordinates": [ 113.901253, -7.703070 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "119", "TEXT": "PROJECT", "LABEL": "PROJECT 119", "ORIG_FID": "18" }, "geometry": { "type": "Point", "coordinates": [ 115.023840, -1.032459 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "122", "TEXT": "PROJECT", "LABEL": "PROJECT 122", "ORIG_FID": "19" }, "geometry": { "type": "Point", "coordinates": [ 112.987121, -2.133059 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "123", "TEXT": "PROJECT", "LABEL": "PROJECT 123", "ORIG_FID": "20" }, "geometry": { "type": "Point", "coordinates": [ 105.574884, -3.846175 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "124", "TEXT": "PROJECT", "LABEL": "PROJECT 124", "ORIG_FID": "21" }, "geometry": { "type": "Point", "coordinates": [ 122.997404, -0.726484 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "125", "TEXT": "PROJECT", "LABEL": "PROJECT 125", "ORIG_FID": "22" }, "geometry": { "type": "Point", "coordinates": [ 122.225069, -3.362247 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "126", "TEXT": "PROJECT", "LABEL": "PROJECT 126", "ORIG_FID": "23" }, "geometry": { "type": "Point", "coordinates": [ 122.267712, -3.288964 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "127", "TEXT": "PROJECT", "LABEL": "PROJECT 127", "ORIG_FID": "24" }, "geometry": { "type": "Point", "coordinates": [ 115.059226, -1.025433 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "128", "TEXT": "PROJECT", "LABEL": "PROJECT 128", "ORIG_FID": "25" }, "geometry": { "type": "Point", "coordinates": [ 104.105606, -2.503586 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "129", "TEXT": "PROJECT", "LABEL": "PROJECT 129", "ORIG_FID": "26" }, "geometry": { "type": "Point", "coordinates": [ 113.853198, -0.964976 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "130", "TEXT": "PROJECT", "LABEL": "PROJECT 130", "ORIG_FID": "27" }, "geometry": { "type": "Point", "coordinates": [ 122.262560, -3.487819 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "131", "TEXT": "PROJECT", "LABEL": "PROJECT 131", "ORIG_FID": "28" }, "geometry": { "type": "Point", "coordinates": [ 121.843419, -3.020892 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "132", "TEXT": "PROJECT", "LABEL": "PROJECT 132", "ORIG_FID": "29" }, "geometry": { "type": "Point", "coordinates": [ 122.155687, -3.524108 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "133", "TEXT": "PROJECT", "LABEL": "PROJECT 133", "ORIG_FID": "30" }, "geometry": { "type": "Point", "coordinates": [ 122.276212, -3.353901 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "134", "TEXT": "PROJECT", "LABEL": "PROJECT 134", "ORIG_FID": "31" }, "geometry": { "type": "Point", "coordinates": [ 115.481161, -3.679391 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "135", "TEXT": "PROJECT", "LABEL": "PROJECT 135", "ORIG_FID": "32" }, "geometry": { "type": "Point", "coordinates": [ 106.316603, -6.507751 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "136", "TEXT": "PROJECT", "LABEL": "PROJECT 136", "ORIG_FID": "33" }, "geometry": { "type": "Point", "coordinates": [ 98.076679, 2.779283 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "2", "TEXT": "PROJECT", "LABEL": "PROJECT 2", "ORIG_FID": "34" }, "geometry": { "type": "Point", "coordinates": [ 105.888043, -2.052305 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "3", "TEXT": "PROJECT", "LABEL": "PROJECT 3", "ORIG_FID": "35" }, "geometry": { "type": "Point", "coordinates": [ 133.695010, -1.648101 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "4", "TEXT": "PROJECT", "LABEL": "PROJECT 4", "ORIG_FID": "36" }, "geometry": { "type": "Point", "coordinates": [ 114.010136, -8.577797 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "5", "TEXT": "PROJECT", "LABEL": "PROJECT 5", "ORIG_FID": "37" }, "geometry": { "type": "Point", "coordinates": [ 117.243083, 4.116356 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "6", "TEXT": "PROJECT", "LABEL": "PROJECT 6", "ORIG_FID": "38" }, "geometry": { "type": "Point", "coordinates": [ 122.252910, -3.216196 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "63", "TEXT": "PROJECT", "LABEL": "PROJECT 63", "ORIG_FID": "39" }, "geometry": { "type": "Point", "coordinates": [ 117.311881, -0.497977 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "65", "TEXT": "PROJECT", "LABEL": "PROJECT 65", "ORIG_FID": "40" }, "geometry": { "type": "Point", "coordinates": [ 130.120860, -0.053906 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "66", "TEXT": "PROJECT", "LABEL": "PROJECT 66", "ORIG_FID": "41" }, "geometry": { "type": "Point", "coordinates": [ 128.400836, 0.949355 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "68", "TEXT": "PROJECT", "LABEL": "PROJECT 68", "ORIG_FID": "42" }, "geometry": { "type": "Point", "coordinates": [ 121.998425, 0.536476 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "69", "TEXT": "PROJECT", "LABEL": "PROJECT 69", "ORIG_FID": "43" }, "geometry": { "type": "Point", "coordinates": [ 114.872439, -3.792350 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "7", "TEXT": "PROJECT", "LABEL": "PROJECT 7", "ORIG_FID": "44" }, "geometry": { "type": "Point", "coordinates": [ 115.638832, -3.642058 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "71", "TEXT": "PROJECT", "LABEL": "PROJECT 71", "ORIG_FID": "45" }, "geometry": { "type": "Point", "coordinates": [ 122.085326, -3.527973 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "72", "TEXT": "PROJECT", "LABEL": "PROJECT 72", "ORIG_FID": "46" }, "geometry": { "type": "Point", "coordinates": [ 110.155780, -1.423585 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "73", "TEXT": "PROJECT", "LABEL": "PROJECT 73", "ORIG_FID": "47" }, "geometry": { "type": "Point", "coordinates": [ 107.344583, -6.620902 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "74", "TEXT": "PROJECT", "LABEL": "PROJECT 74", "ORIG_FID": "48" }, "geometry": { "type": "Point", "coordinates": [ 115.846421, 0.064295 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "75", "TEXT": "PROJECT", "LABEL": "PROJECT 75", "ORIG_FID": "49" }, "geometry": { "type": "Point", "coordinates": [ 121.289328, -3.874803 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "76", "TEXT": "PROJECT", "LABEL": "PROJECT 76", "ORIG_FID": "50" }, "geometry": { "type": "Point", "coordinates": [ 100.798291, -0.599549 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "77", "TEXT": "PROJECT", "LABEL": "PROJECT 77", "ORIG_FID": "51" }, "geometry": { "type": "Point", "coordinates": [ 111.929715, -7.716249 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "78", "TEXT": "PROJECT", "LABEL": "PROJECT 78", "ORIG_FID": "52" }, "geometry": { "type": "Point", "coordinates": [ 110.897118, -6.426396 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "79", "TEXT": "PROJECT", "LABEL": "PROJECT 79", "ORIG_FID": "53" }, "geometry": { "type": "Point", "coordinates": [ 122.307518, -3.381717 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "8", "TEXT": "PROJECT", "LABEL": "PROJECT 8", "ORIG_FID": "54" }, "geometry": { "type": "Point", "coordinates": [ 106.550165, -2.530128 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "80", "TEXT": "PROJECT", "LABEL": "PROJECT 80", "ORIG_FID": "55" }, "geometry": { "type": "Point", "coordinates": [ 102.516337, -3.785499 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "81", "TEXT": "PROJECT", "LABEL": "PROJECT 81", "ORIG_FID": "56" }, "geometry": { "type": "Point", "coordinates": [ 108.369340, -6.734859 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "82", "TEXT": "PROJECT", "LABEL": "PROJECT 82", "ORIG_FID": "57" }, "geometry": { "type": "Point", "coordinates": [ 122.167015, -3.320095 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "83", "TEXT": "PROJECT", "LABEL": "PROJECT 83", "ORIG_FID": "58" }, "geometry": { "type": "Point", "coordinates": [ 103.654515, -3.180245 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "84", "TEXT": "PROJECT", "LABEL": "PROJECT 84", "ORIG_FID": "59" }, "geometry": { "type": "Point", "coordinates": [ 95.517184, 5.285047 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "85", "TEXT": "PROJECT", "LABEL": "PROJECT 85", "ORIG_FID": "60" }, "geometry": { "type": "Point", "coordinates": [ 123.141372, -4.205347 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "86", "TEXT": "PROJECT", "LABEL": "PROJECT 86", "ORIG_FID": "61" }, "geometry": { "type": "Point", "coordinates": [ 131.104000, -1.408340 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "87", "TEXT": "PROJECT", "LABEL": "PROJECT 87", "ORIG_FID": "62" }, "geometry": { "type": "Point", "coordinates": [ 131.293268, -0.941823 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "88", "TEXT": "PROJECT", "LABEL": "PROJECT 88", "ORIG_FID": "63" }, "geometry": { "type": "Point", "coordinates": [ 100.792786, -0.776838 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "89", "TEXT": "PROJECT", "LABEL": "PROJECT 89", "ORIG_FID": "64" }, "geometry": { "type": "Point", "coordinates": [ 121.967901, -5.133706 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "9", "TEXT": "PROJECT", "LABEL": "PROJECT 9", "ORIG_FID": "65" }, "geometry": { "type": "Point", "coordinates": [ 107.682153, -2.636656 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "90", "TEXT": "PROJECT", "LABEL": "PROJECT 90", "ORIG_FID": "66" }, "geometry": { "type": "Point", "coordinates": [ 103.349325, 1.089363 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "91", "TEXT": "PROJECT", "LABEL": "PROJECT 91", "ORIG_FID": "67" }, "geometry": { "type": "Point", "coordinates": [ 107.335779, -6.865177 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "93", "TEXT": "PROJECT", "LABEL": "PROJECT 93", "ORIG_FID": "68" }, "geometry": { "type": "Point", "coordinates": [ 104.104803, 1.046920 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "94", "TEXT": "PROJECT", "LABEL": "PROJECT 94", "ORIG_FID": "69" }, "geometry": { "type": "Point", "coordinates": [ 115.966129, -1.759159 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "95", "TEXT": "PROJECT", "LABEL": "PROJECT 95", "ORIG_FID": "70" }, "geometry": { "type": "Point", "coordinates": [ 117.188237, 3.560981 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "96", "TEXT": "PROJECT", "LABEL": "PROJECT 96", "ORIG_FID": "71" }, "geometry": { "type": "Point", "coordinates": [ 117.214556, 4.116790 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "97", "TEXT": "PROJECT", "LABEL": "PROJECT 97", "ORIG_FID": "72" }, "geometry": { "type": "Point", "coordinates": [ 122.311659, -3.134913 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "99", "TEXT": "PROJECT", "LABEL": "PROJECT 99", "ORIG_FID": "73" }, "geometry": { "type": "Point", "coordinates": [ 107.140499, -6.660544 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "98", "TEXT": "PROJECT", "LABEL": "PROJECT 98", "ORIG_FID": "74" }, "geometry": { "type": "Point", "coordinates": [ 114.547369, -1.519134 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "40", "TEXT": "PROJECT", "LABEL": "PROJECT 40", "ORIG_FID": "75" }, "geometry": { "type": "Point", "coordinates": [ 115.009957, -1.029973 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "43", "TEXT": "PROJECT", "LABEL": "PROJECT 43", "ORIG_FID": "76" }, "geometry": { "type": "Point", "coordinates": [ 114.694393, 1.099596 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "44", "TEXT": "PROJECT", "LABEL": "PROJECT 44", "ORIG_FID": "77" }, "geometry": { "type": "Point", "coordinates": [ 115.277185, -0.531545 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "46", "TEXT": "PROJECT", "LABEL": "PROJECT 46", "ORIG_FID": "78" }, "geometry": { "type": "Point", "coordinates": [ 114.693407, -1.099022 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "47", "TEXT": "PROJECT", "LABEL": "PROJECT 47", "ORIG_FID": "79" }, "geometry": { "type": "Point", "coordinates": [ 122.362786, -3.392400 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "48", "TEXT": "PROJECT", "LABEL": "PROJECT 48", "ORIG_FID": "80" }, "geometry": { "type": "Point", "coordinates": [ 106.563190, -7.164896 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "49", "TEXT": "PROJECT", "LABEL": "PROJECT 49", "ORIG_FID": "81" }, "geometry": { "type": "Point", "coordinates": [ 114.576528, -0.488074 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "50", "TEXT": "PROJECT", "LABEL": "PROJECT 50", "ORIG_FID": "82" }, "geometry": { "type": "Point", "coordinates": [ 129.388274, -0.045278 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "51", "TEXT": "PROJECT", "LABEL": "PROJECT 51", "ORIG_FID": "83" }, "geometry": { "type": "Point", "coordinates": [ 116.364842, -3.512269 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "52", "TEXT": "PROJECT", "LABEL": "PROJECT 52", "ORIG_FID": "84" }, "geometry": { "type": "Point", "coordinates": [ 117.183840, -0.145116 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "53", "TEXT": "PROJECT", "LABEL": "PROJECT 53", "ORIG_FID": "85" }, "geometry": { "type": "Point", "coordinates": [ 114.985226, -0.724109 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "54", "TEXT": "PROJECT", "LABEL": "PROJECT 54", "ORIG_FID": "86" }, "geometry": { "type": "Point", "coordinates": [ 122.171562, -3.546237 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "63", "TEXT": "PROJECT", "LABEL": "PROJECT 63", "ORIG_FID": "87" }, "geometry": { "type": "Point", "coordinates": [ 130.417475, -3.160753 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "137", "TEXT": "PROJECT", "LABEL": "PROJECT 137", "ORIG_FID": "88" }, "geometry": { "type": "Point", "coordinates": [ 116.013351, -3.244210 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "138", "TEXT": "PROJECT", "LABEL": "PROJECT 138", "ORIG_FID": "89" }, "geometry": { "type": "Point", "coordinates": [ 115.287337, -1.611157 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "139", "TEXT": "PROJECT", "LABEL": "PROJECT 139", "ORIG_FID": "90" }, "geometry": { "type": "Point", "coordinates": [ 106.518809, -6.723807 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "140", "TEXT": "PROJECT", "LABEL": "PROJECT 140", "ORIG_FID": "91" }, "geometry": { "type": "Point", "coordinates": [ 107.298981, -6.402674 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "141", "TEXT": "PROJECT", "LABEL": "PROJECT 141", "ORIG_FID": "92" }, "geometry": { "type": "Point", "coordinates": [ 116.850287, -1.033355 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "142", "TEXT": "PROJECT", "LABEL": "PROJECT 142", "ORIG_FID": "93" }, "geometry": { "type": "Point", "coordinates": [ 115.487679, -0.967564 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "143", "TEXT": "PROJECT", "LABEL": "PROJECT 143", "ORIG_FID": "94" }, "geometry": { "type": "Point", "coordinates": [ 122.214266, -3.461812 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "144", "TEXT": "PROJECT", "LABEL": "PROJECT 144", "ORIG_FID": "95" }, "geometry": { "type": "Point", "coordinates": [ 114.642880, -0.343163 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "145", "TEXT": "PROJECT", "LABEL": "PROJECT 145", "ORIG_FID": "96" }, "geometry": { "type": "Point", "coordinates": [ 121.294711, -1.938327 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "146", "TEXT": "PROJECT", "LABEL": "PROJECT 146", "ORIG_FID": "97" }, "geometry": { "type": "Point", "coordinates": [ 104.418605, -0.298039 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "147", "TEXT": "PROJECT", "LABEL": "PROJECT 147", "ORIG_FID": "98" }, "geometry": { "type": "Point", "coordinates": [ 122.202824, -3.246091 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "148", "TEXT": "PROJECT", "LABEL": "PROJECT 148", "ORIG_FID": "99" }, "geometry": { "type": "Point", "coordinates": [ 122.303552, -3.379488 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "149", "TEXT": "PROJECT", "LABEL": "PROJECT 149", "ORIG_FID": "100" }, "geometry": { "type": "Point", "coordinates": [ 114.961013, -0.647696 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "150", "TEXT": "PROJECT", "LABEL": "PROJECT 150", "ORIG_FID": "101" }, "geometry": { "type": "Point", "coordinates": [ 122.076494, -2.817512 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "151", "TEXT": "PROJECT", "LABEL": "PROJECT 151", "ORIG_FID": "102" }, "geometry": { "type": "Point", "coordinates": [ 122.394824, -3.154382 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "152", "TEXT": "PROJECT", "LABEL": "PROJECT 152", "ORIG_FID": "103" }, "geometry": { "type": "Point", "coordinates": [ 114.117095, -1.021168 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "153", "TEXT": "PROJECT", "LABEL": "PROJECT 153", "ORIG_FID": "104" }, "geometry": { "type": "Point", "coordinates": [ 115.170306, -0.426378 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "154", "TEXT": "PROJECT", "LABEL": "PROJECT 154", "ORIG_FID": "105" }, "geometry": { "type": "Point", "coordinates": [ 115.700874, 0.113326 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "155", "TEXT": "PROJECT", "LABEL": "PROJECT 155", "ORIG_FID": "106" }, "geometry": { "type": "Point", "coordinates": [ 121.925549, -5.157409 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "156", "TEXT": "PROJECT", "LABEL": "PROJECT 156", "ORIG_FID": "107" }, "geometry": { "type": "Point", "coordinates": [ 128.391493, 0.944408 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "157", "TEXT": "PROJECT", "LABEL": "PROJECT 157", "ORIG_FID": "108" }, "geometry": { "type": "Point", "coordinates": [ 131.143203, -1.444529 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "158", "TEXT": "PROJECT", "LABEL": "PROJECT 158", "ORIG_FID": "109" }, "geometry": { "type": "Point", "coordinates": [ 112.987581, -2.132916 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "159", "TEXT": "PROJECT", "LABEL": "PROJECT 159", "ORIG_FID": "110" }, "geometry": { "type": "Point", "coordinates": [ 122.273226, -3.346825 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "160", "TEXT": "PROJECT", "LABEL": "PROJECT 160", "ORIG_FID": "111" }, "geometry": { "type": "Point", "coordinates": [ 102.518807, -3.785880 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "161", "TEXT": "PROJECT", "LABEL": "PROJECT 161", "ORIG_FID": "112" }, "geometry": { "type": "Point", "coordinates": [ 122.305441, -3.379333 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "162", "TEXT": "PROJECT", "LABEL": "PROJECT 162", "ORIG_FID": "113" }, "geometry": { "type": "Point", "coordinates": [ 122.205154, -3.369615 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "163", "TEXT": "PROJECT", "LABEL": "PROJECT 163", "ORIG_FID": "114" }, "geometry": { "type": "Point", "coordinates": [ 116.767040, -1.044993 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "166", "TEXT": "PROJECT", "LABEL": "PROJECT 166", "ORIG_FID": "115" }, "geometry": { "type": "Point", "coordinates": [ 114.982432, -0.477035 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "167", "TEXT": "PROJECT", "LABEL": "PROJECT 167", "ORIG_FID": "116" }, "geometry": { "type": "Point", "coordinates": [ 120.905224, -3.550785 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "168", "TEXT": "PROJECT", "LABEL": "PROJECT 168", "ORIG_FID": "117" }, "geometry": { "type": "Point", "coordinates": [ 122.002959, -5.434540 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "169", "TEXT": "PROJECT", "LABEL": "PROJECT 169", "ORIG_FID": "118" }, "geometry": { "type": "Point", "coordinates": [ 131.020021, -1.325778 ] } }
+,
+{ "type": "Feature", "properties": { "Id": "0", "KETERANGAN": "170", "TEXT": "PROJECT", "LABEL": "PROJECT 170", "ORIG_FID": "119" }, "geometry": { "type": "Point", "coordinates": [ 105.574918, -3.849174 ] } }
+
+]
+}

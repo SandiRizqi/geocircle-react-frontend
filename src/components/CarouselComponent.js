@@ -1,3 +1,4 @@
+import Button from "@restart/ui/esm/Button";
 import React from "react";
 import { Carousel } from "react-bootstrap";
 
@@ -26,6 +27,7 @@ function CarouselComponent() {
             goal is to provide tangible improvements and solutions for actual
             problems in agriculture and environment.
           </p>
+          <a href="/order"><Button className="btn btn-primary">Order Now</Button></a>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -42,6 +44,7 @@ function CarouselComponent() {
             these changes is key to understanding, predicting and responding to
             events around us.
           </p>
+          <a href="/order"><Button className="btn btn-primary">Order Now</Button></a>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>

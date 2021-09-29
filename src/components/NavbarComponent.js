@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "../style/css/Megamenu.css";
 import MegamenuComponent from "./MegamenuComponent";
 import MediaQuery from "react-responsive";
-import { DropdownButton} from "react-bootstrap";
+import { DropdownButton } from "react-bootstrap";
 import { MenuItem } from "@mui/material";
 
 import {
@@ -72,13 +72,13 @@ function NavbarComponent(props) {
               <MegamenuComponent />
             </MediaQuery>
             <MediaQuery maxWidth={1000}>
-              <NavDropdown title="Products" id="nav-dropdown" >
+              <NavDropdown title="Products" id="nav-dropdown">
                 <DropdownButton
                   title="Geo-Artificial Intelligence"
                   variant="secondary"
-                  className="dropdown-button" style={{ border: "none", boxShadow: "none" }}
+                  className="dropdown-button"
+                  style={{ border: "none", boxShadow: "none" }}
                 >
-
                   <MenuItem className="menu-item" href="#books">
                     Geo-AI Services
                   </MenuItem>
